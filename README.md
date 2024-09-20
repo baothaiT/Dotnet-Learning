@@ -20,3 +20,5 @@ https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code?
 
 dotnet sln Dotnet-Learning.sln add Console/C002_VariablesConstantsIO/C002_VariablesConstantsIO.csproj --in-root
 dotnet sln Dotnet-Learning.sln add Console/C003_ArithmeticAssignment/C003_ArithmeticAssignment.csproj --in-root
+
+dotnet sln Dotnet-Learning.sln add (ls -r **/*.csproj)

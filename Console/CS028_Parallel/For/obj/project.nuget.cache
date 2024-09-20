@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n3yJE0jweBE=",
+  "dgSpecHash": "CaPJK6+uLfo=",
   "success": true,
-  "projectFilePath": "E:\\Learn\\Development\\C#\\Code-base-github\\learn-cs-netcore\\CS028_Parallel\\For\\For.csproj",
+  "projectFilePath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS028_Parallel\\For\\For.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\b\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",

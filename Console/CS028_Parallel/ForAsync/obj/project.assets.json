@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\Development\\C#\\Code-base-github\\learn-cs-netcore\\CS028_Parallel\\ForAsync\\ForAsync.csproj",
+      "projectUniqueName": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS028_Parallel\\ForAsync\\ForAsync.csproj",
       "projectName": "ForAsync",
-      "projectPath": "E:\\Learn\\Development\\C#\\Code-base-github\\learn-cs-netcore\\CS028_Parallel\\ForAsync\\ForAsync.csproj",
+      "projectPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS028_Parallel\\ForAsync\\ForAsync.csproj",
       "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\Development\\C#\\Code-base-github\\learn-cs-netcore\\CS028_Parallel\\ForAsync\\obj\\",
+      "outputPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS028_Parallel\\ForAsync\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",
