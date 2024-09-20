@@ -1,8 +1,3 @@
-Console/C001_HelloWorld/bin
-Console/C001_HelloWorld/obj
-
-Console/C002_VariablesConstantsIO/bin
-Console/C002_VariablesConstantsIO/obj
-
-Console/CS003_ArithmeticAssignment/bin
-Console/CS003_ArithmeticAssignment/obj
+Console/*/.vscode
+Console/*/bin
+Console/*/obj

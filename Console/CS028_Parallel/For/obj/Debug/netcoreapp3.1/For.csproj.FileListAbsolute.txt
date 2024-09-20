@@ -1,0 +1,14 @@
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.exe
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.deps.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.runtimeconfig.dev.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.dll
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\bin\Debug\netcoreapp3.1\For.pdb
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.AssemblyInfoInputs.cache
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.AssemblyInfo.cs
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.csproj.CoreCompileInputs.cache
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.sourcelink.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.dll
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.pdb
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\For\obj\Debug\netcoreapp3.1\For.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.exe
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.deps.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.runtimeconfig.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.runtimeconfig.dev.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.dll
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\bin\Debug\netcoreapp3.1\ForAsync.pdb
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.AssemblyInfoInputs.cache
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.AssemblyInfo.cs
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.csproj.CoreCompileInputs.cache
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.sourcelink.json
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.dll
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.pdb
+E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\ForAsync\obj\Debug\netcoreapp3.1\ForAsync.genruntimeconfig.cache
