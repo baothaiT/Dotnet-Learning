@@ -22,3 +22,7 @@ dotnet sln Dotnet-Learning.sln add Console/C002_VariablesConstantsIO/C002_Variab
 dotnet sln Dotnet-Learning.sln add Console/C003_ArithmeticAssignment/C003_ArithmeticAssignment.csproj --in-root
 
 dotnet sln Dotnet-Learning.sln add (ls -r **/*.csproj)
+
+
+# Books: Should be read
+https://ankocorp.com/blog/top-12-best-coding-practices-for-dotnet-developers

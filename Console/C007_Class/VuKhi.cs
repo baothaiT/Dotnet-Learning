@@ -24,7 +24,7 @@ namespace C007_Class
 
         /// Phương thức khởi tạo (được gọi khi toán tử new tạo đối tượng)
         /// tên phương thức trùng tên lớp, trường hợp này không tham số
-        public VuKhi() 
+        public VuKhi()  // constructor 
         {
             this.dosatthuong = 1;
         }

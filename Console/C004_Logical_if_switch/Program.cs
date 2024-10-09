@@ -66,30 +66,44 @@
 // Console.WriteLine(max);
 
 
-// int number = 2;
-// switch (number)
-// {
-//     case 1:
-//         Console.WriteLine("number có giá trị một");
-//     break;
-//     case 2:
-//         Console.WriteLine("number có giá trị hai");
-//     break;
-//     default:
-//         Console.WriteLine("number khác một và hai");
-//     break;
-// }
-
 int number = 2;
-if (number == 1)
+switch (number)
 {
-    Console.WriteLine("number có giá trị một");
+    case 1:
+        Console.WriteLine("Switch Old synTax: number is 1");
+    break;
+    case 2:
+        Console.WriteLine("Switch Old synTax: number is 2");
+    break;
+    default:
+        Console.WriteLine("Switch Old synTax: number is not 1 and 2");
+    break;
 }
-else if (number == 2)
+string role = "Admin";
+bool isActive = true;
+
+var resultAdmin = (role, isActive) switch
 {
-    Console.WriteLine("number có giá trị hai");
-}
-else
-{
-    Console.WriteLine("number khác một và hai");
-}
+    ("Admin", true) => "Active admin",
+    ("Admin", false) => "Inactive admin",
+    ("User", true) => "Active user",
+    _ => throw new ArgumentException("Invalid role or status")
+};
+
+Console.WriteLine(resultAdmin);
+
+// Ref: https://www.bytehide.com/blog/switch-statement-csharp
+
+// int number = 2;
+// if (number == 1)
+// {
+//     Console.WriteLine("number có giá trị một");
+// }
+// else if (number == 2)
+// {
+//     Console.WriteLine("number có giá trị hai");
+// }
+// else
+// {
+//     Console.WriteLine("number khác một và hai");
+// }
