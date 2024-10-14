@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS030_SendMail", "Console\C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS031_SemaphoreSlim", "Console\CS031_SemaphoreSlim\CS031_SemaphoreSlim.csproj", "{4240A3AC-496B-4FB5-8AF1-550C5017BE93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{883A1402-C2FA-477B-B821-9EE0F919C4A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{4240A3AC-496B-4FB5-8AF1-550C5017BE93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4240A3AC-496B-4FB5-8AF1-550C5017BE93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4240A3AC-496B-4FB5-8AF1-550C5017BE93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
