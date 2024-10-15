@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("car_horn_with_di_update")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990b3c01b3ba5ba89aefc071afa5a1c455026be1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2baadab37b0a4220a92fbe0ae7145afeb245c709")]
 [assembly: System.Reflection.AssemblyProductAttribute("car_horn_with_di_update")]
 [assembly: System.Reflection.AssemblyTitleAttribute("car_horn_with_di_update")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
