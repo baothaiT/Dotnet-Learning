@@ -1,0 +1,15 @@
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.exe
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.deps.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.runtimeconfig.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.dll
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\bin\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfoInputs.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.AssemblyInfo.cs
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.csproj.CoreCompileInputs.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.sourcelink.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.dll
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\refint\SingleResponsibilityPrinciple.dll
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.pdb
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\SingleResponsibilityPrinciple.genruntimeconfig.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\SingleResponsibilityPrinciple\obj\Debug\net8.0\ref\SingleResponsibilityPrinciple.dll

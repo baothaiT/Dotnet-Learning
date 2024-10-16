@@ -1,0 +1,15 @@
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\bin\Debug\net8.0\CS04_InterfaceSegregationPrinciple.exe
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\bin\Debug\net8.0\CS04_InterfaceSegregationPrinciple.deps.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\bin\Debug\net8.0\CS04_InterfaceSegregationPrinciple.runtimeconfig.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\bin\Debug\net8.0\CS04_InterfaceSegregationPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\bin\Debug\net8.0\CS04_InterfaceSegregationPrinciple.pdb
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.AssemblyInfoInputs.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.AssemblyInfo.cs
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.csproj.CoreCompileInputs.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.sourcelink.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\refint\CS04_InterfaceSegregationPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.pdb
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\CS04_InterfaceSegregationPrinciple.genruntimeconfig.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS04_InterfaceSegregationPrinciple\obj\Debug\net8.0\ref\CS04_InterfaceSegregationPrinciple.dll

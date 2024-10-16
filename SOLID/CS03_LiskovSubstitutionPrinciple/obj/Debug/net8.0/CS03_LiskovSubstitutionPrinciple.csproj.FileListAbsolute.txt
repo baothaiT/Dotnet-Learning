@@ -1,0 +1,15 @@
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\bin\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.exe
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\bin\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.deps.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\bin\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.runtimeconfig.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\bin\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\bin\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.pdb
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.AssemblyInfoInputs.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.AssemblyInfo.cs
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.csproj.CoreCompileInputs.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.sourcelink.json
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\refint\CS03_LiskovSubstitutionPrinciple.dll
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.pdb
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\CS03_LiskovSubstitutionPrinciple.genruntimeconfig.cache
+e:\Learn\Development\C#\Learning\Dotnet-Learning\SOLID\CS03_LiskovSubstitutionPrinciple\obj\Debug\net8.0\ref\CS03_LiskovSubstitutionPrinciple.dll

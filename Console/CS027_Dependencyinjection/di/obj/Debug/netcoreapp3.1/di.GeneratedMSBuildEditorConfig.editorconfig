@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = di
-build_property.ProjectDir = E:\Learn\Development\C#\Lab\Dotnet-Learning\Console\CS027_Dependencyinjection\di\
+build_property.ProjectDir = E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS027_Dependencyinjection\di\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
