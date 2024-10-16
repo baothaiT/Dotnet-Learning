@@ -1,37 +1,23 @@
-﻿namespace OpenClosedPrinciple;
+namespace OpenClosedPrinciple.Services.Case;
 
-public class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine("test OpenClosedPrinciple");
-    }
-}
-
-#region 
-
-public class ReportGeneration
+public class ReportGeneration_Case
 {
     /// <summary>
-    /// Report type
+    /// Case for Open Close Principle
     /// </summary>
     public string ReportType { get; set; }
 
-    /// <summary>
-    /// Method to generate report
-    /// </summary>
-    /// <param name="em"></param>
     public void GenerateReport()
     {
         if (ReportType == "CRS")
         {
              // Report generation with employee data in Crystal Report.
+             Console.WriteLine("CRS");
         }
         if (ReportType == "PDF")
         {
             // Report generation with employee data in PDF.
+            Console.WriteLine("PDF");
         }
      }
 }
-
-#endregion 
