@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS031_SemaphoreSlim", "Cons
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibilityPrinciple", "SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj", "{883A1402-C2FA-477B-B821-9EE0F919C4A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosedPrinciple", "SOLID\OpenClosedPrinciple\OpenClosedPrinciple.csproj", "{19AC8C22-14AD-475C-AF2C-36FEA503FD72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -297,6 +299,10 @@ Global
 		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{883A1402-C2FA-477B-B821-9EE0F919C4A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19AC8C22-14AD-475C-AF2C-36FEA503FD72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19AC8C22-14AD-475C-AF2C-36FEA503FD72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19AC8C22-14AD-475C-AF2C-36FEA503FD72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19AC8C22-14AD-475C-AF2C-36FEA503FD72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
