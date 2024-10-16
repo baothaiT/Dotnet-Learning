@@ -22,8 +22,6 @@ public class Program
         reportGeneration_CRS.GenerateReport();
 
         #endregion
-        
-        
     }
 }
 
