@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj": {}
+    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj": {
+    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
+        "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
         "projectName": "car_horn_nodi",
-        "projectPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
+        "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
         "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\obj\\",
+        "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",

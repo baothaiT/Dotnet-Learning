@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj": {}
+    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj": {
+    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
+        "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
         "projectName": "di_options",
-        "projectPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
+        "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
         "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\obj\\",
+        "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",

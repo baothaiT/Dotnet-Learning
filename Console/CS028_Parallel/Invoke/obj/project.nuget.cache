@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GiyrAgu5xz0=",
+  "dgSpecHash": "vwqz5zGvVYw=",
   "success": true,
-  "projectFilePath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS028_Parallel\\Invoke\\Invoke.csproj",
+  "projectFilePath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS028_Parallel\\Invoke\\Invoke.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\b\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

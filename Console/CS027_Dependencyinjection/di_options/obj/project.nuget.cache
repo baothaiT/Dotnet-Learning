@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JqmfZ/FJ288=",
+  "dgSpecHash": "RSK0jMvZvhQ=",
   "success": true,
-  "projectFilePath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
+  "projectFilePath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\di_options\\di_options.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\b\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
     "C:\\Users\\b\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",

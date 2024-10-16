@@ -1,3 +1,9 @@
-Console/*/.vscode
-Console/*/bin
-Console/*/obj
+*/*/.vscode
+*/*/bin
+*/*/obj
+*/*/*/.vscode
+*/*/*/bin
+*/*/*/obj
+*/*/*/*/.vscode
+*/*/*/*/bin
+*/*/*/*/obj

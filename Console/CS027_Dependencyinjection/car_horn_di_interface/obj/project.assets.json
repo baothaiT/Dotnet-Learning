@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\car_horn_di_interface.csproj",
+      "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\car_horn_di_interface.csproj",
       "projectName": "car_horn_di_interface",
-      "projectPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\car_horn_di_interface.csproj",
+      "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\car_horn_di_interface.csproj",
       "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\Development\\C#\\Lab\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\obj\\",
+      "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_di_interface\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",
