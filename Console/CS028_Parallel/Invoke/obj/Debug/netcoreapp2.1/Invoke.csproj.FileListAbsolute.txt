@@ -12,3 +12,17 @@ E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\Invoke\
 E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.dll
 E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.pdb
 E:\Learn\Development\C#\Code-base-github\learn-cs-netcore\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.genruntimeconfig.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\bin\Debug\netcoreapp2.1\Invoke.deps.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\bin\Debug\netcoreapp2.1\Invoke.runtimeconfig.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\bin\Debug\netcoreapp2.1\Invoke.runtimeconfig.dev.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\bin\Debug\netcoreapp2.1\Invoke.dll
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\bin\Debug\netcoreapp2.1\Invoke.pdb
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.csproj.AssemblyReference.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.AssemblyInfoInputs.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.AssemblyInfo.cs
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.csproj.CoreCompileInputs.cache
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.sourcelink.json
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.dll
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.pdb
+E:\Learn\Development\C#\Learning\Dotnet-Learning\Console\CS028_Parallel\Invoke\obj\Debug\netcoreapp2.1\Invoke.genruntimeconfig.cache

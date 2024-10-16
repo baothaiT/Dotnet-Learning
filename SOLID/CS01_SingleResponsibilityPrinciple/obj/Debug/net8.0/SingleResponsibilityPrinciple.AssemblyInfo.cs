@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SingleResponsibilityPrinciple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebd2d1e218c3da99d2187f36566e40ddb1fdbe68")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd4583937abb9381ecf70cc12cc9ae8daf4bb52")]
 [assembly: System.Reflection.AssemblyProductAttribute("SingleResponsibilityPrinciple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SingleResponsibilityPrinciple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

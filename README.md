@@ -23,8 +23,9 @@ dotnet sln Dotnet-Learning.sln add Console/C003_ArithmeticAssignment/C003_Arithm
 
 dotnet sln Dotnet-Learning.sln add (ls -r **/*.csproj)
 
+dotnet sln remove SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj
 
-dotnet sln Dotnet-Learning.sln add SOLID/OpenClosedPrinciple/OpenClosedPrinciple.csproj --in-root
+dotnet sln Dotnet-Learning.sln add SOLID/CS01_SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.csproj --in-root
 
 # Books: Should be read
 https://ankocorp.com/blog/top-12-best-coding-practices-for-dotnet-developers

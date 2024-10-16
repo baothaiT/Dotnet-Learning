@@ -58,7 +58,7 @@ namespace CS013_Inheritance {
 
             B b = c;          // ngầm định
 
-            c = new A();      // lỗi - không thể chuyển kiểu thuận cây kế thừa -  Lớp cha không chuyển thành con được
+            //c = new A();      // lỗi - không thể chuyển kiểu thuận cây kế thừa -  Lớp cha không chuyển thành con được
 
 
         }

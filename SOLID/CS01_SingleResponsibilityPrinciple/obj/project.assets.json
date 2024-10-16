@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+      "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\CS01_SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
       "projectName": "SingleResponsibilityPrinciple",
-      "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+      "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\CS01_SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
       "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-      "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\SingleResponsibilityPrinciple\\obj\\",
+      "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\CS01_SingleResponsibilityPrinciple\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",

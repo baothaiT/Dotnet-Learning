@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "spPwyA3iRD8=",
+  "dgSpecHash": "wES1wNd+stw=",
   "success": true,
-  "projectFilePath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
+  "projectFilePath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\SOLID\\CS01_SingleResponsibilityPrinciple\\SingleResponsibilityPrinciple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

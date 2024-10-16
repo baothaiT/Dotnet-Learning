@@ -1,4 +1,6 @@
-﻿ // // Vòng lặp for
+﻿
+Console.WriteLine("C005_for_while");
+// // Vòng lặp for
 // for (int i = 8;i <=10;i++)
 // {
 //     Console.WriteLine("Number i = " + i);
