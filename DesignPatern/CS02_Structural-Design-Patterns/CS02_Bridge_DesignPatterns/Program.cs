@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 using CS02_Bridge_DesignPatterns.Services;
 using CS02_Bridge_DesignPatterns.Services.AbstractClass;
 using CS02_Bridge_DesignPatterns.Services.Interfaces;
