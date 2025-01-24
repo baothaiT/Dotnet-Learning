@@ -26,7 +26,6 @@ namespace CS010_Constructors
             set { name = value;}
             get { return name;}
         }
-
     }
 
 

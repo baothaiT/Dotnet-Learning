@@ -5,7 +5,6 @@ namespace CS012_Array
 {
     class Program
     {
-
         static void testForEach()
         {
             int[] numbers = {9, 8, 7, 6, 5, 4, 3, 2, 1 };

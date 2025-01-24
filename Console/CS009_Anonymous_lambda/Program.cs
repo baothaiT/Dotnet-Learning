@@ -6,7 +6,6 @@ namespace CS09_Anonymous_lambda {
         int Tong(int x, int y) => x + y; // expression-bodied
         //ref: https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/expression-bodied-members
 
-
         public delegate int TinhToan (int a, int b);
         static void Main (string[] args) {
             // Gán biểu thức lambda cho delegate
@@ -16,11 +15,6 @@ namespace CS09_Anonymous_lambda {
 
             int kq = tinhtong (5, 1); // kq = 6;
             Console.WriteLine (kq);
-
-
-
-
-
 
             //Gán lambda cho Func
             Func<int, int, int> tinhtong1 = (int x, int y) => {

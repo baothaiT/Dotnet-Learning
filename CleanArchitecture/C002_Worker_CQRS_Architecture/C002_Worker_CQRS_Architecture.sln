@@ -5,17 +5,17 @@ VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "srcs", "srcs", "{D4109234-2186-4BEC-97A1-36EB571B7423}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Application", "srcs\Worker.Application\Worker.Application.csproj", "{13BF5C29-1AD2-4034-9253-04FD65B3291E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Application", "src\Worker.Application\Worker.Application.csproj", "{13BF5C29-1AD2-4034-9253-04FD65B3291E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Contract", "srcs\Worker.Contract\Worker.Contract.csproj", "{FBFBC788-51CE-44B5-A2C1-16A8EBEF91D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Contract", "src\Worker.Contract\Worker.Contract.csproj", "{FBFBC788-51CE-44B5-A2C1-16A8EBEF91D1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Domain", "srcs\Worker.Domain\Worker.Domain.csproj", "{7C7F65C9-0780-406C-90CB-0E2DA82F3AF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Domain", "src\Worker.Domain\Worker.Domain.csproj", "{7C7F65C9-0780-406C-90CB-0E2DA82F3AF4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Infrastructure", "srcs\Worker.Infrastructure\Worker.Infrastructure.csproj", "{71A82D62-677A-45E8-A6F4-9B1A5ECC3975}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Infrastructure", "src\Worker.Infrastructure\Worker.Infrastructure.csproj", "{71A82D62-677A-45E8-A6F4-9B1A5ECC3975}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Persistence", "srcs\Worker.Persistence\Worker.Persistence.csproj", "{E22E3032-52F8-43DE-ACE6-55EDA8280FBA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.Persistence", "src\Worker.Persistence\Worker.Persistence.csproj", "{E22E3032-52F8-43DE-ACE6-55EDA8280FBA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.WorkerService", "srcs\Worker.WorkerService\Worker.WorkerService.csproj", "{517DBD36-18E8-4AB7-AA4A-327E10807774}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Worker.WorkerService", "src\Worker.WorkerService\Worker.WorkerService.csproj", "{517DBD36-18E8-4AB7-AA4A-327E10807774}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

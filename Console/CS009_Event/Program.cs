@@ -12,7 +12,6 @@ namespace CS009_Event {
             sb.Sub (p);
 
             p.Send ();
-
         }
 
         static void TestEventHandler () 
