@@ -1,0 +1,6 @@
+@CS002_ExportPDF_HostAddress = http://localhost:5077
+
+GET {{CS002_ExportPDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
