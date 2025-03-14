@@ -1,0 +1,6 @@
+@C003_Gafana_HostAddress = http://localhost:5165
+
+GET {{C003_Gafana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
