@@ -9,7 +9,7 @@ builder.Services.AddControllers();
 // Configure Redis
 builder.Services.AddSingleton<IConnectionMultiplexer>(sp =>
 {
-    var configuration = builder.Configuration.GetSection("Redis:ConnectionString").Value;
+    var configuration = builder.Configuration.GetSection("Redis_ConnectionString").Value;
     return ConnectionMultiplexer.Connect(configuration);
 });
 
