@@ -1,6 +1,0 @@
-services:
-  c001_jaegear:
-    image: ${DOCKER_REGISTRY-}c001jaegear
-    build:
-      context: JaegerAPI
-      dockerfile: Dockerfile

@@ -1,6 +1,0 @@
-@C001_Jaegear_HostAddress = http://localhost:5085
-
-GET {{C001_Jaegear_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

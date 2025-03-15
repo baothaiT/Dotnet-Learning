@@ -1,0 +1,13 @@
+services:
+  microservice.api:
+    image: ${DOCKER_REGISTRY-}microserviceapi
+    build:
+      context: .
+      dockerfile: Microservice.API/Dockerfile
+
+  consumer:
+    image: ${DOCKER_REGISTRY-}consumer
+    build:
+      context: .
+      dockerfile: Consumer/Dockerfile
+

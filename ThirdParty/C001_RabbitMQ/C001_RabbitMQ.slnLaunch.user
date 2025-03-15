@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Microservice.API\\Microservice.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "..\\ConsumerWorker\\ConsumerWorker.csproj",
+        "Action": "Start",
+        "DebugTarget": "ConsumerWorker"
+      }
+    ]
+  }
+]
