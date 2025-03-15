@@ -8,10 +8,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{95C1340C-BEFD-4865-B9DC-9EA1650BF51A}|..\\ConsumerWorker\\ConsumerWorker.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\consumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1C7875A2-28F2-489B-8D85-217888285838}|Consumer\\Consumer.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7875A2-28F2-489B-8D85-217888285838}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,20 +17,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Consumer\\Program.cs",
-              "RelativeDocumentMoniker": "Consumer\\Program.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Consumer\\Program.cs",
-              "RelativeToolTip": "Consumer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:39:46.226Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -43,7 +27,7 @@
               "RelativeDocumentMoniker": "Microservice.API\\Controllers\\RabbitController.cs",
               "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Microservice.API\\Controllers\\RabbitController.cs",
               "RelativeToolTip": "Microservice.API\\Controllers\\RabbitController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABBwB4AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T15:37:35.326Z",
               "EditorCaption": ""
@@ -58,7 +42,8 @@
               "RelativeToolTip": "..\\ConsumerWorker\\Worker.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAYwCQAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:37:04.921Z"
+              "WhenOpened": "2025-03-15T15:37:04.921Z",
+              "EditorCaption": ""
             }
           ]
         }
