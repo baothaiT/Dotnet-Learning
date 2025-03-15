@@ -21,10 +21,10 @@ namespace Microservice.API.Controllers
         [HttpPost]
         public async Task<IActionResult> SendMessage([FromBody] string message)
         {
-            var factory = new ConnectionFactory() { HostName = "localhost", UserName = "guest", Password = "guest" };
+            var factory = new ConnectionFactory() { HostName = "rabbitmq", UserName = "guest", Password = "guest" };
             var msgModel = new
             {
-                id = 1, 
+                id = 1,
                 msg = "msg",
                 name = "name"
             };

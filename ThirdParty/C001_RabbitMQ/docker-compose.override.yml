@@ -11,8 +11,10 @@ services:
       - "5001:8081"
     depends_on:
       - rabbitmq
-  consumer:
-    container_name: "consumer"
+  consumerworker:
+    container_name: "consumerworker"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
     depends_on:
       - rabbitmq
 

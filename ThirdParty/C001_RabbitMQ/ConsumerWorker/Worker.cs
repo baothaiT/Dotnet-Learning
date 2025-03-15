@@ -17,12 +17,12 @@ namespace ConsumerWorker
         {
             while (!stoppingToken.IsCancellationRequested)
             {
-                //if (_logger.IsEnabled(LogLevel.Information))
-                //{
-                //    _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-                //}
+                if (_logger.IsEnabled(LogLevel.Information))
+                {
+                    _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
+                }
 
-                var factory = new ConnectionFactory() { HostName = "localhost", UserName = "guest", Password = "guest" };
+                var factory = new ConnectionFactory() { HostName = "rabbitmq", UserName = "guest", Password = "guest" };
                 using var connection = await factory.CreateConnectionAsync();
                 using var channel = await connection.CreateChannelAsync();
 

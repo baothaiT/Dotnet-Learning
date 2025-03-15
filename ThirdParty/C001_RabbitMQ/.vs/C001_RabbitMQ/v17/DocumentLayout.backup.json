@@ -7,11 +7,23 @@
       "RelativeMoniker": "D:0:0:{19285F17-FE64-4EEC-B168-4755DCF0D3BC}|Microservice.API\\Microservice.API.csproj|solutionrelative:microservice.api\\controllers\\rabbitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95C1340C-BEFD-4865-B9DC-9EA1650BF51A}|..\\ConsumerWorker\\ConsumerWorker.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\consumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C2717BF2-A1CC-FA69-5E51-9612BAADA950}|ConsumerWorker\\ConsumerWorker.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\consumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2717BF2-A1CC-FA69-5E51-9612BAADA950}|ConsumerWorker\\ConsumerWorker.csproj|solutionrelative:consumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C7875A2-28F2-489B-8D85-217888285838}|Consumer\\Consumer.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C7875A2-28F2-489B-8D85-217888285838}|Consumer\\Consumer.csproj|solutionrelative:consumer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2717BF2-A1CC-FA69-5E51-9612BAADA950}|ConsumerWorker\\ConsumerWorker.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c001_rabbitmq\\consumerworker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2717BF2-A1CC-FA69-5E51-9612BAADA950}|ConsumerWorker\\ConsumerWorker.csproj|solutionrelative:consumerworker\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,19 +33,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Consumer\\Program.cs",
-              "RelativeDocumentMoniker": "Consumer\\Program.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Consumer\\Program.cs",
-              "RelativeToolTip": "Consumer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Microsoft.VisualStudio.Docker.Compose.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Professional\\MSBuild\\Sdks\\Microsoft.Docker.Sdk\\build\\Microsoft.VisualStudio.Docker.Compose.targets",
+              "ViewState": "AgIAAKMBAAAAAAAAAAAYwLcBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-15T15:55:06.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\ConsumerWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsumerWorker\\Worker.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\ConsumerWorker\\Worker.cs",
+              "RelativeToolTip": "ConsumerWorker\\Worker.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCgAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:39:46.226Z"
+              "WhenOpened": "2025-03-15T15:53:38.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-15T15:52:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\ConsumerWorker\\Dockerfile",
+              "RelativeDocumentMoniker": "ConsumerWorker\\Dockerfile",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\ConsumerWorker\\Dockerfile",
+              "RelativeToolTip": "ConsumerWorker\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-15T15:52:30.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-15T15:51:59.061Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -43,22 +106,10 @@
               "RelativeDocumentMoniker": "Microservice.API\\Controllers\\RabbitController.cs",
               "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C001_RabbitMQ\\Microservice.API\\Controllers\\RabbitController.cs",
               "RelativeToolTip": "Microservice.API\\Controllers\\RabbitController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAABBwB4AAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAzwBUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T15:37:35.326Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Worker.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\ConsumerWorker\\Worker.cs",
-              "RelativeDocumentMoniker": "..\\ConsumerWorker\\Worker.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\ConsumerWorker\\Worker.cs",
-              "RelativeToolTip": "..\\ConsumerWorker\\Worker.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwCQAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T15:37:04.921Z"
             }
           ]
         }

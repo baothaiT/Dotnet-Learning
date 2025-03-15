@@ -5,9 +5,9 @@ services:
       context: .
       dockerfile: Microservice.API/Dockerfile
 
-  consumer:
-    image: ${DOCKER_REGISTRY-}consumer
+  consumerworker:
+    image: ${DOCKER_REGISTRY-}consumerworker
     build:
       context: .
-      dockerfile: Consumer/Dockerfile
+      dockerfile: ConsumerWorker/Dockerfile
 
