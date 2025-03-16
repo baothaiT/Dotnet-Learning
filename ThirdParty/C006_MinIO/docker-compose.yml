@@ -1,0 +1,6 @@
+services:
+  miniowebapi:
+    image: ${DOCKER_REGISTRY-}miniowebapi
+    build:
+      context: .
+      dockerfile: MinioWebApi/Dockerfile

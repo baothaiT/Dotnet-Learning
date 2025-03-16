@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c006_minio\\miniowebapi\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|solutionrelative:miniowebapi\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c006_minio\\miniowebapi\\controllers\\miniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|solutionrelative:miniowebapi\\controllers\\miniocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c006_minio\\miniowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|solutionrelative:miniowebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c006_minio\\miniowebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|solutionrelative:miniowebapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c006_minio\\miniowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEA9936F-D53A-4309-B1A7-35A502261369}|MinioWebApi\\MinioWebApi.csproj|solutionrelative:miniowebapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "MinioWebApi\\Program.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Program.cs",
+              "RelativeToolTip": "MinioWebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:53:46.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MinioWebApi\\appsettings.Development.json",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\appsettings.Development.json",
+              "RelativeToolTip": "MinioWebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T04:48:33.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Services\\MinioService.cs",
+              "RelativeDocumentMoniker": "MinioWebApi\\Services\\MinioService.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Services\\MinioService.cs",
+              "RelativeToolTip": "MinioWebApi\\Services\\MinioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:46:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinioController.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Controllers\\MinioController.cs",
+              "RelativeDocumentMoniker": "MinioWebApi\\Controllers\\MinioController.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Controllers\\MinioController.cs",
+              "RelativeToolTip": "MinioWebApi\\Controllers\\MinioController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:45:40.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MinioWebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\MinioWebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MinioWebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T04:45:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C006_MinIO\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-16T04:40:05.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
