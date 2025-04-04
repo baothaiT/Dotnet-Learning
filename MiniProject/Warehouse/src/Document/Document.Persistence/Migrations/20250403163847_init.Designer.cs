@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Document.Persistence.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250330113246_init")]
+    [Migration("20250403163847_init")]
     partial class init
     {
         /// <inheritdoc />
@@ -25,7 +25,7 @@ namespace Document.Persistence.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Document.Domain.Entities.DocumnetEntity", b =>
+            modelBuilder.Entity("Document.Domain.Entities.DocumentEntity", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -38,6 +38,13 @@ namespace Document.Persistence.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("DocumentTable");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = new Guid("3724f12c-411d-40de-ae21-6974cbd1676d"),
+                            Code = "Code"
+                        });
                 });
 #pragma warning restore 612, 618
         }

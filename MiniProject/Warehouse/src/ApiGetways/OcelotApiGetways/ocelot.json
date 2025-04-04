@@ -1,0 +1,19 @@
+//{
+//  "Routes": [
+//    {
+//      "DownstreamPathTemplate": "/api/{everything}",
+//      "DownstreamScheme": "http",
+//      "DownstreamHostAndPorts": [
+//        {
+//          "Host": "document.api",
+//          "Port": 8080
+//        }
+//      ],
+//      "UpstreamPathTemplate": "/gateway/documents",
+//      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+//    }
+//  ],
+//  "GlobalConfiguration": {
+//    "BaseUrl": "http://ocelotapigetways.api:8080"
+//  }
+//}

@@ -12,15 +12,15 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["Document/Document.API/Document.API.csproj", "Document/Document.API/"]
-COPY ["Document/Document.Application/Document.Application.csproj", "Document/Document.Application/"]
-COPY ["BuildingBlocks/Shared/Shared/Shared.csproj", "BuildingBlocks/Shared/Shared/"]
-COPY ["Document/Document.Domain/Document.Domain.csproj", "Document/Document.Domain/"]
-COPY ["Document/Document.Infrastructure/Document.Infrastructure.csproj", "Document/Document.Infrastructure/"]
-COPY ["Document/Document.Persistence/Document.Persistence.csproj", "Document/Document.Persistence/"]
-RUN dotnet restore "./Document/Document.API/Document.API.csproj"
+COPY ["src/Document/Document.API/Document.API.csproj", "src/Document/Document.API/"]
+COPY ["src/Document/Document.Application/Document.Application.csproj", "src/Document/Document.Application/"]
+COPY ["src/BuildingBlocks/Shared/Shared/Shared.csproj", "src/BuildingBlocks/Shared/Shared/"]
+COPY ["src/Document/Document.Domain/Document.Domain.csproj", "src/Document/Document.Domain/"]
+COPY ["src/Document/Document.Infrastructure/Document.Infrastructure.csproj", "src/Document/Document.Infrastructure/"]
+COPY ["src/Document/Document.Persistence/Document.Persistence.csproj", "src/Document/Document.Persistence/"]
+RUN dotnet restore "./src/Document/Document.API/Document.API.csproj"
 COPY . .
-WORKDIR "/src/Document/Document.API"
+WORKDIR "/src/src/Document/Document.API"
 RUN dotnet build "./Document.API.csproj" -c $BUILD_CONFIGURATION -o /app/build
 
 # This stage is used to publish the service project to be copied to the final stage

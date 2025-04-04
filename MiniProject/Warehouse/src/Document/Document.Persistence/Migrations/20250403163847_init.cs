@@ -22,6 +22,11 @@ namespace Document.Persistence.Migrations
                 {
                     table.PrimaryKey("PK_DocumentTable", x => x.Id);
                 });
+
+            migrationBuilder.InsertData(
+                table: "DocumentTable",
+                columns: new[] { "Id", "Code" },
+                values: new object[] { new Guid("3724f12c-411d-40de-ae21-6974cbd1676d"), "Code" });
         }
 
         /// <inheritdoc />

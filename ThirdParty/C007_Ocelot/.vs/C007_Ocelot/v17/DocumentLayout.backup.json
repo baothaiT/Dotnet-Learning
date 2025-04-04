@@ -3,56 +3,12 @@
   "WorkspaceRootPath": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|solutionrelative:productservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|solutionrelative:productservice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|solutionrelative:productservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\orderservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4E4983FF-CF88-43C9-957D-47493D1FC669}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\productservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95A18A00-F160-4024-ABF2-0648107EA143}|ProductService\\ProductService.csproj|solutionrelative:productservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|d:\\bao\\tech-learning\\dotnet\\sourcecode\\dotnet-learning\\thirdparty\\c007_ocelot\\apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{30FF8B5B-C469-4E6E-82FA-A81881D50AC3}|ApiGateway\\ApiGateway.csproj|solutionrelative:apigateway\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,173 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Program.cs",
-              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Program.cs",
-              "RelativeToolTip": "ApiGateway\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:40:39.687Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "ProductService\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "ProductService\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T06:56:53.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ProductService\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ProductService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T06:22:37.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Properties\\launchSettings.json",
-              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T06:22:27.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "ApiGateway\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Properties\\launchSettings.json",
-              "RelativeToolTip": "ApiGateway\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T06:22:19.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Dockerfile",
-              "RelativeDocumentMoniker": "ApiGateway\\Dockerfile",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Dockerfile",
-              "RelativeToolTip": "ApiGateway\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-16T06:21:55.757Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "OrderService\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "OrderService\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:51:41.69Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:51:41.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Program.cs",
-              "RelativeDocumentMoniker": "ProductService\\Program.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\Program.cs",
-              "RelativeToolTip": "ProductService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:45:37.062Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "ProductService\\WeatherForecast.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ProductService\\WeatherForecast.cs",
-              "RelativeToolTip": "ProductService\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:45:36.428Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Program.cs",
-              "RelativeDocumentMoniker": "OrderService\\Program.cs",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\OrderService\\Program.cs",
-              "RelativeToolTip": "OrderService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T05:45:17.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ocelot.json",
               "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\ocelot.json",
               "RelativeDocumentMoniker": "ApiGateway\\ocelot.json",
               "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\ocelot.json",
               "RelativeToolTip": "ApiGateway\\ocelot.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T05:41:20.335Z",
+              "WhenOpened": "2025-04-04T03:33:42.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "ApiGateway\\appsettings.Development.json",
-              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\appsettings.Development.json",
-              "RelativeToolTip": "ApiGateway\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-16T05:41:18.707Z"
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway\\Program.cs",
+              "ToolTip": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\ThirdParty\\C007_Ocelot\\ApiGateway\\Program.cs",
+              "RelativeToolTip": "ApiGateway\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T03:33:23.684Z",
+              "EditorCaption": ""
             }
           ]
         }

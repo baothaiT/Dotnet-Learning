@@ -1,7 +1,4 @@
-﻿
-
-
-namespace User.API.Extensions
+﻿namespace OcelotApiGetways.Extensions
 {
     public static class HostExtensions
     {
@@ -11,9 +8,10 @@ namespace User.API.Extensions
             {
                 var env = context.HostingEnvironment;
                 config.AddJsonFile("appsettings.json", false, true)
-                    .AddJsonFile($"appsettings.{env.EnvironmentName}.json", true,
-                        true)
+                    .AddJsonFile($"appsettings.{env.EnvironmentName}.json", true, true)
+                    .AddJsonFile($"ocelot.{env.EnvironmentName}.json", false, true)
                     .AddEnvironmentVariables();
+                //}).UseSerilog(Serilogger.Configure);
             });
         }
     }

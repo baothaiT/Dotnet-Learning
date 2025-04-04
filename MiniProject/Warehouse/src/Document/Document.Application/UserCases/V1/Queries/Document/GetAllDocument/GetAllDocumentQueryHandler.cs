@@ -24,9 +24,9 @@ public class GetAllDocumentQueryHandler : IRequestHandler<GetAllDocumentQuery, A
         _mapper = mapper;
 
     }
+
     public async Task<ApiSuccessFul<List<DocumentResponse>>> Handle(GetAllDocumentQuery request, CancellationToken cancellationToken)
     {
-        
         var responseDb = await _repository.GetAll();
         List<DocumentResponse> documentResponses = _mapper.Map<List<DocumentResponse>>(responseDb);
         return new ApiSuccessFul<List<DocumentResponse>>(documentResponses);

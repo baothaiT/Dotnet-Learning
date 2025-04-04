@@ -22,7 +22,7 @@ namespace Document.Persistence.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Document.Domain.Entities.DocumnetEntity", b =>
+            modelBuilder.Entity("Document.Domain.Entities.DocumentEntity", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
@@ -39,7 +39,7 @@ namespace Document.Persistence.Migrations
                     b.HasData(
                         new
                         {
-                            Id = new Guid("ab7353ca-2e10-4f36-90ea-c4aa8e21c82f"),
+                            Id = new Guid("3724f12c-411d-40de-ae21-6974cbd1676d"),
                             Code = "Code"
                         });
                 });
