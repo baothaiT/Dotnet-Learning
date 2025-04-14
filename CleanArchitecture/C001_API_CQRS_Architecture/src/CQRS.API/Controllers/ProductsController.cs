@@ -28,7 +28,7 @@ namespace CQRS.API.Controllers
             _getByIdHandler = getByIdHandler;
         }
 
-        [HttpGet]
+        [HttpGet("/products")]
         public async Task<IActionResult> GetAll()
         {
             var products = await _getAllHandler.Handle(new GetAllProductsQuery());
