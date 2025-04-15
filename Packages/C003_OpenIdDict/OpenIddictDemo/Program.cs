@@ -1,5 +1,6 @@
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using OpenIddictDemo;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,30 +28,49 @@ builder.Services.AddOpenIddict()
     {
         opt.SetTokenEndpointUris("/connect/token");
 
-        opt.AllowPasswordFlow();
-        opt.AcceptAnonymousClients();
-        opt.UseAspNetCore()
-            .EnableTokenEndpointPassthrough();
+        opt.AllowPasswordFlow(); // ✅ Required
+
+        opt.AcceptAnonymousClients(); // ✅ If you don't use client_id/secret
+
         opt.AddDevelopmentEncryptionCertificate()
-            .AddDevelopmentSigningCertificate();
-// Register the ASP.NET Core host and configure the ASP.NET Core options.
+               .AddDevelopmentSigningCertificate();
+
         opt.UseAspNetCore()
                .EnableTokenEndpointPassthrough();
-        // opt.UseJsonWebTokens();
+
+        opt.UseAspNetCore()
+            .EnableTokenEndpointPassthrough();
     });
 
-// builder.Services.AddAuthentication("Bearer")
-//     .AddJwtBearer("Bearer", options =>
-//     {
-//         options.Authority = "https://localhost:5001";
-//         options.Audience = "resource_server";
-//         options.TokenValidationParameters.ValidateAudience = false;
-//         options.RequireHttpsMetadata = false;
-//     });
+builder.Services.AddAuthentication("Bearer")
+    .AddJwtBearer("Bearer", options =>
+    {
+        options.Authority = "https://localhost:5001";
+        options.Audience = "resource_server";
+        options.TokenValidationParameters.ValidateAudience = false;
+        options.RequireHttpsMetadata = false;
+    });
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddAuthorization();
 var app = builder.Build();
+// 👉 Seed user on startup
+using (var scope = app.Services.CreateScope())
+{
+    var userMgr = scope.ServiceProvider.GetRequiredService<UserManager<IdentityUser>>();
+    var user = await userMgr.FindByNameAsync("test");
+    if (user == null)
+    {
+        await userMgr.CreateAsync(new IdentityUser("test"), "Pass123$");
+    }
+}
+
+app.Use(async (context, next) =>
+{
+    Console.WriteLine($"➡ Content-Type: {context.Request.ContentType}");
+    await next();
+});
+
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -75,5 +95,5 @@ app.UseEndpoints(options =>
 });
 
 
-app.Run();
+await app.RunAsync();
 
