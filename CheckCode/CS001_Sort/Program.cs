@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 namespace CS001_Sort;
 
-class Program
+private static class Program
 {
     static void Main(string[] args)
     {

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS04_InterfaceSegregationPrinciple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+75d161f1f4a0fd2636326c4880569c4ef520863e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4acc08d67939ddf7b1ad4509502564ed73fc41f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS04_InterfaceSegregationPrinciple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS04_InterfaceSegregationPrinciple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

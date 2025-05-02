@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CS03_LiskovSubstitutionPrinciple")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0731c5ea06d566125ba1bbdbe1464c0509c44948")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4acc08d67939ddf7b1ad4509502564ed73fc41f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CS03_LiskovSubstitutionPrinciple")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CS03_LiskovSubstitutionPrinciple")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
