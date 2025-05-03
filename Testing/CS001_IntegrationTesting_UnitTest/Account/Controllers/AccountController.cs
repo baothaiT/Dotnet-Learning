@@ -27,7 +27,7 @@ namespace AuthApi.Controllers
 
             // Simulate redirect with code
             var redirectUrl = $"{redirect_uri}?code=sample-code&state={state}";
-            return Ok(redirectUrl);
+            return new RedirectResult(redirectUrl);
         }
     }
 }

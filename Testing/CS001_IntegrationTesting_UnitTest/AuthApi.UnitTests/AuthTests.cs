@@ -29,14 +29,7 @@ namespace AuthApi.UnitTests
             string scope = string.Empty;
             string state = string.Empty;
 
-            var query = new[]
-            {
-                "client_id=test-client",
-                "response_type=code",
-                "redirect_uri=https://localhost/callback",
-                "scope=openid profile",
-                "state=xyz123"
-            };
+            // Removed unused variable 'query'
 
             // Act
             var result = _accountController.Authorize(
@@ -89,3 +82,4 @@ namespace AuthApi.UnitTests
         }
     }
 }
+        
