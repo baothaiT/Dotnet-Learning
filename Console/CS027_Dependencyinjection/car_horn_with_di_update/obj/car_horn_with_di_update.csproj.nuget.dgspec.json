@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj": {}
+    "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj": {}
   },
   "projects": {
-    "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj": {
+    "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj",
+        "projectUniqueName": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj",
         "projectName": "car_horn_with_di_update",
-        "projectPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj",
-        "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-        "outputPath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\obj\\",
+        "projectPath": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\car_horn_with_di_update.csproj",
+        "packagesPath": "C:\\Users\\thaib\\.nuget\\packages\\",
+        "outputPath": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_with_di_update\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thaib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -40,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -56,30 +60,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

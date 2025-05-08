@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3CpM854fXng=",
+  "dgSpecHash": "b93A/bGdmvM=",
   "success": true,
-  "projectFilePath": "E:\\Learn\\Development\\C#\\Learning\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\b\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\b\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\b\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\b\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Bao\\Tech-Learning\\Dotnet\\SourceCode\\Dotnet-Learning\\Console\\CS027_Dependencyinjection\\car_horn_nodi\\car_horn_nodi.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
