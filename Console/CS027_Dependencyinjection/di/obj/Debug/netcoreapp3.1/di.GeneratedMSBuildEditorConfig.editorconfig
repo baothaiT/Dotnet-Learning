@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = di
-build_property.ProjectDir = D:\Bao\Tech-Learning\Dotnet\SourceCode\Dotnet-Learning\Console\CS027_Dependencyinjection\di\
+build_property.ProjectDir = d:\Bao\Tech-Learning\Dotnet\SourceCode\Dotnet-Learning\Console\CS027_Dependencyinjection\di\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

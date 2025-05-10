@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Invoke
-build_property.ProjectDir = D:\Bao\Tech-Learning\Dotnet\SourceCode\Dotnet-Learning\Console\CS028_Parallel\Invoke\
+build_property.ProjectDir = d:\Bao\Tech-Learning\Dotnet\SourceCode\Dotnet-Learning\Console\CS028_Parallel\Invoke\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
