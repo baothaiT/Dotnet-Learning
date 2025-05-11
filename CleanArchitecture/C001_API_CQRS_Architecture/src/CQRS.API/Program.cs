@@ -15,8 +15,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 
 // Register the AppDbContext with SQL Server or SQLite
-builder.Services.AddDbContext<AppDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("SeverConnectionTest")));
+
 
 // Register Repositories
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
