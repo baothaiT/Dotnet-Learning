@@ -1,0 +1,6 @@
+@CS003_AppSettingOption_HostAddress = http://localhost:5208
+
+GET {{CS003_AppSettingOption_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
