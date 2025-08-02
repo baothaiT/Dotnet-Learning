@@ -1,6 +1,0 @@
-@SQLContext_HostAddress = http://localhost:5145
-
-GET {{SQLContext_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
