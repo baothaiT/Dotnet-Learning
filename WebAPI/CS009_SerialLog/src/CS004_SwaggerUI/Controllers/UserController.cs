@@ -15,6 +15,8 @@ namespace CS004_SwaggerUI.Controllers
         private readonly IEventDispatcher _eventDispatcher;
         private readonly ILogger<UserController> _logger;
 
+        private static readonly System.Diagnostics.ActivitySource ActivitySource = new System.Diagnostics.ActivitySource("CS004_SwaggerUI.UserController");
+
         public UserController(
             IUserRepository userRepository,
             IEventDispatcher eventDispatcher,
@@ -29,9 +31,27 @@ namespace CS004_SwaggerUI.Controllers
         [HttpGet]
         public async Task<IActionResult> GetAllUsers()
         {
-            _logger.LogInformation("Fetching all users");
-            var users = await _userRepository.GetAllUsersAsync();
-            return Ok(users);
+            using (var activity = ActivitySource.StartActivity("GetAllUsers"))
+            {
+                var users = await _userRepository.GetAllUsersAsync();
+                var usersJson = System.Text.Json.JsonSerializer.Serialize(users);
+
+                // Add custom tag to span (handle both List and IEnumerable)
+                int userCount = 0;
+                if (users is System.Collections.ICollection coll)
+                    userCount = coll.Count;
+                else if (users is System.Collections.Generic.IEnumerable<object> enumerable)
+                    userCount = enumerable.Count();
+                activity?.SetTag("user.count", userCount);
+
+                // Get trace context
+                var traceId = System.Diagnostics.Activity.Current?.TraceId.ToString() ?? string.Empty;
+                var spanId = System.Diagnostics.Activity.Current?.SpanId.ToString() ?? string.Empty;
+
+                // Log with trace context for Jaeger
+                _logger.LogTrace("Fetched users: {UsersJson} | TraceId={TraceId} SpanId={SpanId}", usersJson, traceId, spanId);
+                return Ok(users);
+            }
         }
 
         [HttpGet("{id}")]
