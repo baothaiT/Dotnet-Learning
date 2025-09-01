@@ -26,6 +26,6 @@ dotnet sln Dotnet-Learning.sln add (ls -r **/*.csproj)
 dotnet sln remove SOLID\SingleResponsibilityPrinciple\SingleResponsibilityPrinciple.csproj
 
 dotnet sln Dotnet-Learning.sln add SOLID/CS01_SingleResponsibilityPrinciple/SingleResponsibilityPrinciple.csproj --in-root
-
+test
 # Books: Should be read
 https://ankocorp.com/blog/top-12-best-coding-practices-for-dotnet-developers
